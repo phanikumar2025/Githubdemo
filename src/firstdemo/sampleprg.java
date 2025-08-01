@@ -12,6 +12,8 @@ public class sampleprg {
 		//System.setProperty("webdriver.chrome.driver", "C:\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.rediff.com");
+		System.out.println("this is second commit");
+		
 	}
 
 }
